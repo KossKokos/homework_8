@@ -32,10 +32,10 @@ def get_birthdays_per_week(list_of_workers):
              
     print(dict_of_days)
     _1 = ''
-    _4 = ''
-    _5 = ''
     _2 = ''
     _3 = ''
+    _4 = ''
+    _5 = ''
     for key in dict_of_days.keys():
         if key == 'Monday':
             _1 = key
