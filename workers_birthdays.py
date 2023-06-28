@@ -59,5 +59,4 @@ def get_birthdays_per_week(list_of_workers):
     if _5 == 'Friday':
         print(f'{_5}: {dict_of_days[_5]}')
 
-
 get_birthdays_per_week(lst)
